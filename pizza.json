@@ -1,5 +1,4 @@
-{
- "products" : [
+[
     {
         "pdName": "炭火肉食披薩",
         "pdEnName": "Meat Lover's",
@@ -121,4 +120,3 @@
         "price": "大披薩 $329 / 小披薩 $229"
     }
 ] 
- }
